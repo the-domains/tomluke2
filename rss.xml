@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tomluke2]]></title>
+        <description><![CDATA[tomluke2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 17:31:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Star Wars]]></title>
+            <description><![CDATA[<article><h1>Star Wars</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f5875f729ab13233d78de5b602199be1896c18.png"></article>]]></description>
+            <link>undefinedstar-wars/index.html</link>
+            <guid isPermaLink="false">21ee0f18-efe7-45f0-9617-160494c20496</guid>
+            <pubDate>Mon, 21 Dec 2015 17:31:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
